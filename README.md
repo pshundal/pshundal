@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prabhdeep Singh HundaL @pshundal
+- 👋 Hi, I’m Prabhdeep Singh Hundal @pshundal
 - 👀 I’m interested in IT job.
 - 🌱 I’m currently learning coding and working as a Technician.
 - 💞️ I’m looking to collaborate on Front End Projects.
